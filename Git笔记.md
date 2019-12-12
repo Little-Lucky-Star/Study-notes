@@ -6,4 +6,4 @@
 点击查看链接 [Git创建和Github绑定流程](https://www.processon.com/view/link/5de4c89de4b0e2c2989ab344)
 
 ## Git工作流程
-![Git工作流程-极简](./img/Git工作流程图-极简版.png "Git极简工作流程图")
+![Git工作流程-极简](./Sources/Git工作流程图-极简版.png "Git极简工作流程图")
